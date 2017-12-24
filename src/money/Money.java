@@ -1,0 +1,4 @@
+package money;
+
+class Money {
+}
