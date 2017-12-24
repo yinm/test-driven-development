@@ -1,8 +1,6 @@
 package money;
 
-class Dollar extends Money {
-	private int amount;
-	
+class Dollar extends Money {	
 	Dollar(int amount) {
 		this.amount = amount;
 	}
